@@ -1,0 +1,770 @@
+city,mayor
+San Bernardino,Helen Tran
+San Clemente,Victor Cabral
+Warwick,Frank J. Picozzi
+Azusa,Robert Gonzales
+Sacramento,Darrell Steinberg
+Sanford,Art Woodruff
+Joliet,Terry D'Arcy
+Pine Bluff,Shirley Washington
+El Monte,Jessica Ancona
+San Ramon,David E. Hudson
+El Centro,Sylvia Marroquin
+Chino,Eunice M. Ulloa
+West Allis,Dan Devine
+North Tonawanda,Austin J. Tylec
+Stockton,Kevin J. Lincoln II
+Pleasant Hill,Matthew Rinn
+Temple,Tim Davis
+White Plains,Thomas M. Roach
+Syracuse,Ben Walsh
+Independence,Rory Rowland
+Modesto,Sue Zwahlen
+Medford,Randy Sparacino
+Anaheim,Ashleigh Aitken
+Hagers,Tekesha Martinez
+Shelton,Mark A. Lauretti
+Cerritos,Naresh Solanki
+El Cajon,Bill Wells
+Edmond,Darrell A. Davis
+Calumet City,Thaddeus Jones
+Del Rio,Al Arreola
+Perth Amboy,Helmin J. Caba
+Moore,Ken Moore
+Santa Monica,Phil Brock
+San Gabriel,John Wu
+Lawrence,Bart Littlejohn
+Garland,Scott LeMay
+Milwaukee,Cavalier Johnson
+Bethel Parkborough,Not Found
+Greenburgh,Not Found
+Parkersburg,Not Found
+Garfield Heights,Not Found
+Fonddu Lac,Not Found
+Blue Springs,Chris Lievsay
+Rancho Cucamonga,L Dennis Michael
+Hendersonville,Jamie Clary
+Green Bay,Eric Genrich
+Yorba Linda,Tara Campbell
+Austin,Kirk Watson
+Quincy,Thomas P. Koch
+Corvallis,Charles Maughan
+Framingham,Charlie Sisitsky
+Pemberton,Not Found
+Colton,Frank J. Navarro
+Spartanburg,Jerome Rice
+Merced,Matthew Serratto
+Richmond,Levar Stoney
+Turlock,Amy Bublak
+Sparks,Ed Lawson
+Huntington Park,Karina Macias
+Janesville,Not Found
+Wichita,Lily Wu
+Beaverton,Lacey Beaty
+Hartford,Arunan Arulampalam
+Dearborn,Abdullah Hammoud
+La Verne,Tim Hepburn
+Fairfield,Catherine Moy
+Rialto,Deborah Robertson
+York,Eric L. Adams
+Tuscaloosa,Walter Maddox
+Johnson City,Todd Fowler
+Claremont,Sal Medina
+Toledo,Wade Kapszukiewicz
+Edison,Sam Joshi
+Melbourne,Paul Alfrey
+Wilmington,Bill Saffo
+Fort Pierce,Linda Hudson
+Manhattan Beach,Amy Thomas Howorth
+Broken Arrow,Debra Wimpee
+Monroe,Stephen Dalina
+Fort Wayne,Sharon Tucker
+Daly City,Juslyn C. Manalo
+Montclair,Renee Baskerville
+Walnut Creek,Loella Haskew
+Bossier City,Thomas H. Chandler
+Bessemer,Not Found
+Haverhill,Melinda E. Barrett
+Cambridge,E. Denise Simmons
+Palatinevillage,Not Found
+Margate,Tommy Ruzzano
+Columbia,Muriel Bowser
+Buena Park,Susan Sonne
+Covina,Brian Tabatabai
+Temple City,Tom Chavez
+Santa Clara,Lisa M. Gillmor
+Clovis,Lynne Ashbeck
+Compton,Emma Sharif
+Miramar,Wayne M. Messam
+Reading,Eddie Moran
+Pittsburgh,Ed Gainey
+Shreveport,Tom Arceneaux
+Torrance,George Chen
+Mesa,John Giles
+Madison,Satya Rhodes-Conway
+Sylvania,Cherelle L. Parker
+Southfield,Kenson J. Siver
+Bountiful,Kendalyn Harris
+Mount Prospectvillage,Not Found
+Wheeling,Patrick Horcher
+Port Arthur,Thurman 'Bill' Bartie
+Lubbock,Mark McBrayer
+Elkhart,Rod Roberson
+Woodbridge,John E. McCormac
+Hanford,Travis Paden
+Glendale,Jerry Weiers
+Gadsden,Craig Ford
+Stillwater,William H. Joyce
+Cedar Falls,Daniel Laudick
+Waltham,Jeannette A. McCarthy
+Southington,Not Found
+Teaneck,Michael Pagan
+Richardson,Rex Richardson
+San Rafael,Kate Colin
+Edmonds,Mike Rosen
+Southgate,Not Found
+Manchester,Jay Ruais
+Petaluma,Kevin McDonnell
+Upper Darby,Ed Brown
+Dubuque,Brad M. Cavanagh
+West Bloomfield,Not Found
+Cape Coral,John Gunter
+Kingsport,Patrick W. Shull
+Cincinnati,Aftab Pureval
+Martinez,Eduardo Martinez
+Hallandale,Joy Cooper
+Pembroke Pines,Angelo Castillo
+Macon,Lester Miller
+Carson,Lula Davis-Holmes
+Idaho Falls,Rebecca Casper
+Hurst,Ken Thurston
+Simi Valley,Fred D. Thomas
+Royal Oak,Michael Fournier
+Knoxville,Indya Kincannon
+Meridian,Robert E. Simison
+Hamilton,Jeffrey S. Martin
+Bangor,Not Found
+Paterson,Andre Sayegh
+Little Rock,Frank D. Scott Jr.
+Atlantic City,Marty Small Sr.
+Everett,Cassie Franklin
+Mansfield,Michael Evans Sr.
+Norfolk,Kenneth Cooper Alexander
+Hoover,Frank V. Brocato
+Oak Park,Vicki Scaman
+Sheboygan,Ryan Sorenson
+Inglewood,James T. Butts Jr.
+San Diego,Todd Gloria
+Bloomfield,Michael J. Venezia
+Elgin,David Kaptain
+North Miami,Alix Desulme
+Natick,Not Found
+Newark,Ras J. Baraka
+Napa,Scott Sedgley
+Tyler,Don Warren
+Newport News,Phillip Jones
+San Antonio,Ron Nirenberg
+Pharr,Ambrosio 'Amos' Hernandez
+Redwood City,Jeff Gee
+Torrington,Elinor Carbone
+Brookfield,Steven V. Ponto
+Santa Clarita,Cameron Smyth
+Yonkers,Mike Spano
+Plano,John B. Muns
+Union City,Carol Dutra-Vernaci
+Cheyenne,Patrick Collins
+New Berlin,David Ament
+Amarillo,Cole Stanley
+Provo,Michelle G. Kaufusi
+Fort Lauderdale,Dean J. Trantalis
+North Charleston,Reggie L. Burgess
+Durham,Leonardo Williams
+Chelmsford,Not Found
+Kissimmee,Olga Gonzalez
+Odessa,Javier Joven
+Old Bridge,Debbie Walker
+Camden,Victor G. Carstarphen
+South Gate,Gil Hurtado
+Thousand Oaks,Al Adam
+Philadelphia,Cherelle L. Parker
+Covington,Joseph U. Meyer
+Orlando,Buddy Dyer
+Rohnert Park,Susan Hollingsworth Adams
+Greenwich,Not Found
+Buffalo,Christopher P. Scanlon
+Peoria,Jason Beck
+Moorhead,Michelle Carlson
+New Haven,Justin Elicker
+East Point,Deana Holiday Ingraham
+Stamford,Caroline Simmons
+Longmont,Joan Peck
+Culver City,Yasmine-Imani McMorrin
+Trumbull,Not Found
+Westfield,Scott Willis
+Bremerton,Greg Wheeler
+Appleton,Jake Woodford
+Fort Smith,George B. McGill
+Fall River,Paul Coogan
+Mankato,Najwa Massad
+Braintree,Erin Joyce
+Fort Collins,Jeni Arndt
+Springfield,Ken McClure
+Bridgewater,Matthew Moench
+Victorville,Elizabeth Becerra
+Carrollton,Steve Babick
+New Bedford,Jon Mitchell
+Sioux Falls,Paul TenHaken
+Indianapolis,Joseph 'Joe' H. Hogsett
+Murfreesboro,Shane McFarland
+High Point,Cyril Jefferson
+Beavercreek,Don Adams
+Downey,Mario Trujillo
+Fairbanks,David Pruhs
+Euless,Linda Martin
+Jersey City,Steven M. Fulop
+Duncanville,Greg Contreras
+Hammond,Thomas M. McDermott Jr.
+Irving,Rick Stopfer
+Pocatello,Brian Blad
+Smyrna,Derek Norton
+Schaumburgvillage,Not Found
+Ocala,Ben Marciano
+Boca Raton,Scott Singer
+Kettering,Peggy Lehner
+Shaker Heights,David E. Weiss
+Florissant,Timothy J. Lowery
+Ames,James Allen Joines
+Longview,Kristen Ishihara
+Daytona Beach,Derrick L. Henry
+Victoria,Victoria Woodards
+Loveland,Jacki Marsh
+Hoboken,Ravinder S. Bhalla
+Allen Park,Not Found
+Monrovia,Becky A. Shelvin
+Harrisonburg,Deanna R. Reed
+Stanton,David J. Shawver
+North Little Rock,Terry Hartwick
+La Puente,Gabriel Quiñones
+San Luis Obispo,Erica A. Stewart
+Rosemead,Steven Ly
+Panama City,Michael Rohan Sr.
+Mentor,Not Found
+Columbus,Andrew J. Ginther
+Bryan,Bobby Gutierrez
+Reno,Hillary Schieve
+Mobile,William 'Sandy' S. Stimpson
+Alexandria,Justin Wilson
+Bakersfield,Karen K. Goh
+Bloomington,Tim Busse
+Monterey Park,Thomas Wong
+Marietta,Steve 'Thunder' Tumlin
+Rancho Palos Verdes,John Cruikshank
+Hot Springs,Pat McCabe
+Methuen,Neil Perry
+Shaler,Not Found
+Valdosta,Scott James Matheson
+Huntsville,Tommy Battle
+New Britain,Erin E. Stewart
+Glendora,Mendell Thompson
+Manitowoc,Justin Nickels
+Memphis,Paul Young
+Apple Valley,Scott Nassif
+Tracy,Nancy Young
+Burlington,James B. Butler
+Bridgeport,Joe Ganim
+Gulfport,Billy Hewes
+Richland,Jack McCarty
+Beverly Hills,Lester J. Friedman
+Highland,Penny Lilburn
+Cleveland,Justin Bibb
+Blaine,Tim Sanders
+Phoenix,Kate Gallego
+Taunton,Shaunna O'Connell
+Santa Barbara,Randy Rowse
+South San Franciscodivision,Not Found
+Rapid City,Jason Salamun
+Palmdale,Austin Bishop
+Greensboro,Nancy Vaughan
+Dayton,Jeffrey J. Mims Jr.
+Mount Pleasant,Will Haynie
+La Habra,Daren Nigsarian
+Berkeley,Jesse Arreguin
+Hackensack,John P. Labrosse Jr.
+Indio,Lupe Ramos Amith
+Lakewood,Wendi Strom
+Watsonville,Vanessa Quiroz-Carter
+Tucson,Regina Romero
+Alameda,Marilyn Ezzy Ashcraft
+Owensboro,Tom Watson
+Pacifica,Sue Vaterlaus
+Irvington,Tony Vauss
+Oceanside,Esther C. Sanchez
+Nashua,Jim Donchess
+Akron,Shammas Malik
+Eagan,Mike Maguire
+Bayonne,James 'Jimmy' M. Davis
+Burbank,Nick Schultz
+Cypress,Scott Minikus
+Corona,Tom Richins
+Roseville,Bruce Houdesheldt
+Brockton,Robert F. Sullivan
+Lawton,Stan Booker
+Lodi,Lisa Craig
+La Mesa,Mark Arapostathis
+Marlborough,J. Christian Dumais
+San Jose,Matt Mahan
+Upland,Bill Velto
+East Orange,Theodore R. Green
+Hemet,Joe Males
+Oshkosh,Matt Mugerauer
+North Brunswick,Francis 'Mac' Womack III
+Huntington,Gracey Van Der Mark
+Lynchburg,Stephanie Reed
+Anchorage,Suzanne LaFrance
+Garden Grove,Steven R. Jones
+Riverside,Patricia Lock Dawson
+Tustin,Austin Lumbard
+Mc Allen,Not Found
+Houston,John Whitmire
+Eau Claire,Not Found
+Streamwoodvillage,Not Found
+Winslow,Marie Lawrence
+Utica,Michael Galime
+Vacaville,John Carli
+Paramount,Annette C. Delgadillo
+Palm Springs,Jeffrey Bernstein
+San Francisco,London N. Breed
+Dearborn Heights,Bill Bazzi
+Montgomery,Steven Reed
+Union,Carol Dutra-Vernaci
+Sherman,Sherman P. Lea Sr.
+Blacksburg,Leslie Hager-Smith
+Wheaton,Philip J. Suess
+Pleasanton,Karla Brown
+Palm Bay,Rob Medina
+Littleton,Kyle Schlachter
+Davis,Darrell A. Davis
+Wauwatosa,Dennis McBride
+Allen,James Allen Joines
+Gary,Gary Singh
+Brookline,Not Found
+West Hollywood,John M. Erickson
+Seaside,Ian N. Oglesby
+Alhambra,Sasha Renee Perez
+Flint,Sheldon Neeley
+Farmington,Theresa Rich
+Baton Rouge,Sharon Weston Broome
+Arlington,Jim Ross
+Redding,Tenessa Audette
+Danbury,Roberto Alves
+Lima,Sharetta Smith
+Laredo,Victor Trevino
+Kenosha,David F. Bogdala
+Yucaipa,Justin Beaver
+Lowell,Daniel Rourke
+Frederick,Michael O'Connor
+Dana Point,Jamey Federico
+Oakland,Sheng Thao
+Muskogee,Patrick Cale
+Visalia,Brian Poochigian
+Yakima,Patricia Byers
+Hattiesburg,Toby Barker
+Harrisburg,Wanda R.D. Williams
+La Crosse,Mitch Reynolds
+Pinellas Park,Sandra 'Sandy' Lee Bradbury
+San Mateo,Lisa Diaz Nash
+Jefferson City,Ron Fitzwater
+Lancaster,R Rex Parris
+Rock Hill,John Gettys
+Redlands,Eddie Tejeda
+Suffolk,Michael D. Duman
+Park Ridge,Marty Maloney
+Tulare,Terry A. Sayre
+Enid,David Mason
+Cape Girardeau,Stacy Kinder
+Rome,Regina Romero
+Edina,Rob Medina
+Lansing,Andy Schor
+Bellingham,Kim Lund
+Altoona,Matt Pacifico
+Chula Vista,John McCann
+Tallahassee,John E. Dailey
+Lake Oswego,Joe Buck
+Lufkin,Mark Hicks
+Manteca,Gary Singh
+Orange,Dan Slater
+Oxnard,John Zaragoza
+League City,Nick Long
+Livermore,John P. Marchand
+German,Mike Palazzolo
+Water,Bruce Rector
+Campbell,Tara Campbell
+Trenton,W. Reed Gusciora Esq.
+Hampton,Donnie R. Tuck
+Gastonia,Richard Franks
+Malden,Gary Christenson
+Gilroy,Marie Blankley
+San Angelo,Brenda Gunter
+Fresno,Jerry Dyer
+Weymouth,Robert L. Hedlund
+Garden City,Mark Jacobs
+Naperville,Scott Wehrli
+Peabody,Edward A. Bettencourt Jr.
+Mount Vernon,Shawyn Patterson-Howard
+Erie,Valerie Amezcua
+Pueblo,Heather Graham
+Orem,David Young
+Baltimore,Brandon M Scott
+Waterbury,"Paul K. Pernerewski, Jr"
+Asheville,Esther E. Manheimer
+Highland Park,Nancy Rodkin Rotering
+Tupelo,Todd Jordan
+Massillon,Jamie Slutz
+Kirkland,Penny Sweet
+Chandler,Kevin Hartke
+Ann Arbor,Christopher Taylor
+Pasadena,Jeff A. Wagner
+Fort Myers,Kevin B Anderson
+Logan,Holly H. Daines
+Chesapeake,Richard 'Rick' W. West
+Sunnyvale,Larry Klein
+Ogden,Ben Nadolski
+Albuquerque,Tim Keller
+Montebello,Scarlet Peralta
+Ewing,Bert Steinmann
+Pawtucket,Donald R. Grebien
+Hayward,Mark Salinas
+Kenner,Michael J. Glaser
+Prichard,Not Found
+Salem,James Allen Joines
+Sarasota,Liz Alpert
+Petersburg,Kenneth Welch
+Houma,Not Found
+Somerville,Katjana Ballantyne
+Boston,Michelle Wu
+Lorain,Jack W. Bradley
+Fitchburg,Samantha Squailia
+Charlotte,Vi Alexander Lyles
+Cupertino,Sheila Mohan
+Grand Forks,Brandon Bochenski
+Beaumont,Roy West
+Mountain View,Patricia Showalter
+Bismarck,Michael Schmitz
+Pico Rivera,Andrew C. Lara
+Vineland,Anthony Fanucci
+Racine,Cory Mason
+Chester,Malik Evans
+Greenville,P.J. Connelly
+Barnstable,Not Found
+Cherry Hill,Dave Fleisher
+Dallas,Eric Johnson
+Washington,Bruce Harrell
+Fargo,Tim Mahoney
+Portland,Ted Wheeler
+Wausau,Doug Diny
+West Haven,Dorinda Borer
+Redmond,Angela Birney
+Sayrevilleborough,Not Found
+Savannah,Van R. Johnson II
+Arlington Heightsvillage,Not Found
+Diamond Bar,Stan Liu
+Kentwood,Stephen Kepley
+Meriden,Kevin M. Scarpati
+Albany,Kathy M. Sheehan
+La Mirada,Andrew Sarega
+Bensalem,Joseph DiGirolamo
+Burnsville,Elizabeth B. Kautz
+Sandy,William 'Sandy' S. Stimpson
+North Richland Hills,Jack McCarty
+West Hartford,Shari Cantor
+Terre Haute,Brandon Sakbun
+Redondo Beach,James Light
+Jackson,Donna Deegan
+North Bergen,Nicholas J. Sacco
+Minneapolis,Jacob Frey
+Nacogdoches,Randy Johnson
+Lewisville,TJ Gilmore
+Fayetteville,Mitch Colvin
+Plainfield,Adrian O. Mapp
+Port Huron,Not Found
+Bellevue,Lynne Robinson
+Naugatuck,N 'Pete' Warren Hess III
+Hoffman Estatesvillage,Not Found
+Coral Springs,Scott Brook
+Murray,Brett A. Hales
+Sterling Heights,Michael C. Taylor
+Bay,Ramon Luis Rivera Cruz
+Evesham,Jaclyn Veasy
+Renton,Armondo Pavone
+Norwich,Peter Albert Nystrom
+Falls,Paul TenHaken
+Bellflower,Dan Koops
+Cathedral City,Mark Carnevale
+Missouri City,Robin J. Elackatt
+Kearny,Carol Jean Doyle
+Minot,Tom Ross
+Oklahoma City,David Holt
+Lynwood,Jose Luis Solache
+Upper Arlington,Ukeme Awakessien Jeter
+El Paso,Oscar Leeser
+Schenectady,Gary R. McCarthy
+Clarksville,Joe Pitts
+Clearwater,Bruce Rector
+Monterey,Thomas Wong
+Woburn,Michael Concannon
+Brick,Lisa Crate
+Killeen,Debbie Nash-King
+Pittsburg,Ed Gainey
+Tulsa,G.T. Bynum
+Whittier,Joe Vinatieri
+Seattle,Bruce Harrell
+Novato,Mark Milberg
+Jacksonville,Donna Deegan
+Lynn,Rosalynn Bliss
+Saginaw,Brenda Fay Moore
+Sumter,David P. Merchant
+Midwest City,Matt Dukes
+Los Angeles,Karen Bass
+Annapolis,M Darrell Hinnant
+Rochester,Malik Evans
+Huber Heights,Jeffrey Gore
+Norwalk,Margarita L. Rios
+Kokomo,Tyler Moore
+Lewiston,Carl Lowell Sheline
+South Bend,James Mueller
+Vancouver,Anne McEnerny-Ogle
+Lafayette,Monique Boulet
+Chesterfield,Bob Nation
+Kansas City,Quinton Lucas
+Twentynine Palms- Morongo Valle,Not Found
+Pontiac,Tim Greimel
+Fullerton,Nick Dunlap
+New Orleans,LaToya Cantrell
+Randolph,Not Found
+West Des Moines,Russ Trimble
+Clifton,Raymond Grabowski
+Duluth,Roger Reinert
+Niagara Falls,Robert Restaino
+Maple Grove,Mark V. Steffenson
+Pomona,Tim Sandoval
+Chattanooga,Tim Kelly
+Scottsdale,David D. Ortega
+Kalamazoo,David Anderson
+Chicago,Brandon Johnson
+Baldwin Park,Emmanuel J. Estrada
+Deerfield Beach,Bill Ganz
+Ray,Mark McBrayer
+Atlanta,Andre Dickens
+Salt Lake City,Erin J. Mendenhall
+Tacoma,Victoria Woodards
+Dothan,Mark Saliba
+Grand Rapids,Rosalynn Bliss
+Kennewick,Gretl Crawford
+West Orange,Susan McCartney
+Waterloo,Quentin M. Hart
+Lower Paxton,Not Found
+Spokane,Lisa Brown
+Santa Ana,Valerie Amezcua
+Rockford,Thomas P. McNamara
+Irvine,Farrah N. Khan
+Strongsville,Thomas P. Perciak
+Gloucester,David R. Mayer
+Worcester,Joseph M. Petty
+Fremont,Lily Mei
+West Jordan,Dick Burton
+Richfield,Mary Supple
+Fair Lawnborough,Not Found
+Roanoke,Sherman P. Lea Sr.
+Concord,Edi E. Birsan
+Palo Alto,Greer Stone
+Delray Beach,Tom Carney
+Des Moines,Connie Boesen
+East Brunswick,Brad J. Cohen
+Tampa,Jane Castor
+Troy,Ethan Baker
+Taylor,Michael C. Taylor
+Decatur,Julie Moore-Wolfe
+Hesperia,Larry Bird
+Des Plaines,Andrew Goczkowski
+Lake Charles,Nicholas 'Nic' Hunter
+Joplin,Keenan T. Cortez Sr.
+Waco,Jim Holmes
+Raleigh,Mary-Ann Baldwin
+Linden,Derek Armstead
+Dunedin,Julie Ward Bujalski
+Flagstaff,Becky Daggett
+Midland,Lori Blong
+Scranton,Paige G. Cognetti
+Portsmouth,Shannon E. Glover
+Hillsboro,Steve Callaway
+Cranston,Kenneth J. Hopkins
+Coral Gables,Vince C. Lago
+Boynton Beach,Ty Penserga
+Bristol,Jeff Caggiano
+Mission Viejo,Trish Kelley
+Davie,Judith Paul
+Denver,Mike Johnston
+Haverford,Not Found
+Westminster,Nan McNally
+Beverly,Michael P. Cahill
+Wallingford,Vincent Cervoni
+Stratford,Laura Hoydick
+Rocky Mount,C. 'Sandy' Saunders Roberson Jr.
+Ontario,Paul S. Leon
+Michigan City,Angie Nelson Deuitch
+San Bruno,Rico E. Medina
+Fontana,Acquanetta Warren
+Sunrise,Michael J. Ryan
+Piscataway,Brian C. Wahler
+Evansville,Stephanie Terry
+San Dimas,Emmett Badar
+Williamsport,Not Found
+Plantation,Nick Sortal
+Costa Mesa,John Stephens
+Chapel Hill,Jessica Anderson
+Belleville,Patty Gregory
+Anderson,Kevin B Anderson
+Miami Beach,Steven Meiner
+Las Vegas,Carolyn Goodman
+Fountain Valley,Glenn Grandis
+Galveston,Craig Brown
+Placentia,Jeremy B. Yamaguchi
+Glenviewvillage,Not Found
+Birmingham,Randall Woodfin
+Livonia,Maureen Miller Brosnan
+Binghamton,Jared M. Kraham
+Gainesville,Harvey Ward
+Wyoming,Kent Vanderwood
+Willingboro,Kaya McIntosh
+Wyandotte,Not Found
+Kent,Craig Greenberg
+Cary,Harold Weinbrecht Jr.
+Leominster,Dean J. Mazzarella
+Wayne,Sharon Tucker
+Milpitas,Carmen Montano
+Beloit,Not Found
+Galesburg,Not Found
+Hollywood,Josh Levy
+Danville,Karen Stepper
+Pompano Beach,Rex Hardin
+Bay City,Jesse Dockett
+Davenport,Mike Matson
+Aurora,Mike Coffman
+Arcadia,Michael Cao
+National City,Ron Morrison
+Cleveland Heights,Kahlil Seren
+Detroit,Mike Duggan
+Round Rock,Craig Morgan
+Tamarac,Michelle J. Gomez
+Camarillo,Tony Trembley
+Passaic,Hector Lora
+East Lansing,George Brookover
+Vallejo,Robert H. McConnell
+Northampton,Not Found
+Bell Gardens,Gabriela Gomez
+Hawthorne,Alex Vargas
+Eden Prairie,Ron Case
+Largo,Woody Brown
+West Covina,Brian Tabatabai
+Westland,Kevin Coleman
+Newport Beach,Will O'Neill
+Port Orange,Donald O. Burnette
+Texas City,Dedrick D. Johnson Sr.
+Battle Creek,Mark Behnke
+Moreno Valley,Ulises Cabrera
+Tempe,Corey Woods
+Santa Rosa,Natalie Rogers
+College Station,John Nichols
+Maplewood,Marylee Abrams
+New York,Eric L. Adams
+De Soto,Not Found
+Wilson,Justin Wilson
+Eugene,Lucy K. Vinis
+Newton,Ruthanne Fuller
+Goldsboro,Charles Gaylor
+Plymouth,Jeffry Wosje
+Coventry,Not Found
+Henderson,Michelle Romero
+Denton,Gerard Hudspeth
+Norman,Larry Heikkila
+Novi,Justin Fischer
+Brea,Breanna Lungo-Koehn
+New Iberia,Not Found
+East Chicago,Not Found
+Chico,Andrew Coolidge
+Brownsville,John Cowen Jr.
+Antioch,Lamar Hernandez-Thorpe
+Lincoln Park,Michael Higgins
+Pennsauken,Marco DiBattista
+Louisville,Craig Greenberg
+Mesquite,Daniel Alemán Jr.
+Woodland,Tania Garcia-Cadena
+Gardena,Tasha Cerda
+Arvada,Lauren Simpson
+Youngs,Jamael Tito Brown
+Woonsocket,Lisa Baldelli-Hunt
+Mount Laurel,Fozia Janjua
+Santa Maria,Alice M. Patino
+Virginia Beach,Robert 'Bobby' M. Dyer
+Sierra Vista,Clea McCaa
+Carlsbad,Keith Blackburn
+Buffalo Grovevillage,Not Found
+Olympia,Dontae Payne
+Salinas,Kimbley Craig
+Auburn,Nancy Backus
+Delhi,Not Found
+University City,Terry Crow
+Elizabeth,Elizabeth Becerra
+North Providence,Charles A. Lombardi
+Portage,Patricia M. Randall
+Augusta,Garnett Johnson
+East Hartford,Connor Martin
+Canton,Anne Marie Graham-Hudak
+Providence,Brett P. Smiley
+San Leandro,Juan Gonzalez
+Long Beach,Rex Richardson
+Bowling Green,Todd Alcott
+Parsippany- Troy Hills,Not Found
+Shelby,Not Found
+Hamden,Lauren Garrett
+New Brunswick,James Cahill
+Clinton,Not Found
+Minnetonka,Brad Wiersum
+Fort Worth,Mattie Parker
+Fort Leeborough,Not Found
+Harlingen,Norma Sepulveda
+Milford,Anthony S. Giannattasio
+Lauderhill,Ken Thurston
+West New York,Albio Sires
+Dover,Robin R. Christiansen
+Brooklyn Park,Hollies J. Winston
+Bell,Lynne Robinson
+Miami,Francis X. Suarez
+Lakeland,H 'Bill' William Mutz
+Bartlesville,Dale Copeland
+Jonesboro,Harold Copenhaver
+Boulder,Aaron Brockett
+Bedford,Jon Mitchell
+Florence,Teresa Myers Ervin
+Colorado Springsdivision,Not Found
+Waukesha,Shawn N. Reilly
+Marion,Nicolas AbouAssaly
+Greeley,John Gates
+Muskegon,Ken Johnson
+Texarkana,Bob Bruggeman
+Sioux City,Bob Scott
+Middle,Anthony S. Perry
+Fairborn,Daniel R. Kirkpatrick
+Pittsfield,Peter M. Marchetti
+Enfield,Ken Nelson Jr.
+Escondido,Dane White
+Gresham,Travis Stovall
+Evanston,Daniel Biss
+Elk Grove Villagevillage,Not Found
+Warner Robins,LaRhonda Patrick
+East Providence,Roberto DaSilva
+Roswell,Kurt Wilson
+Corpus Christi,Paulette M. Guajardo
+Charleston,William Cogswell
+Lompoc,Jenelle Osborne
+New Albany,Jeff M. Gahan
