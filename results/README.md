@@ -1,7 +1,7 @@
 # Results
 
 ## Description
-This folder contains output files and visualizations generated during the project. These may include screenshots of visualizations, summary reports, or the final presentation.
+This folder contains our final report and visualizations generated during the project. These may include screenshots of visualizations, summary reports, or the final presentation.
 
 ## Structure
 Organize files by type or project stage. Suggested subfolders:

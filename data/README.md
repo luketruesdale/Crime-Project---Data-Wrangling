@@ -3,7 +3,11 @@
 ## Folders
 
 source data:
-https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data
+https://www.kaggle.com/datasets/michaelbryantds/crimedata
+https://www.bls.gov/ 
+https://www.usmayors.org/ 
+https://www.ballotpedia.org/ 
+
 
 ### raw
 
@@ -14,8 +18,6 @@ Original, unmodified data after downloading, scraping, etc.
 Data after all cleaning, processing, and analyzing.
 
 ---
-
-## Data Dictionary 
 
 # Data Dictionary
 
