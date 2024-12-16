@@ -1,6 +1,5 @@
-# Project Template
-
-This repository serves as a **template for organizing data analysis and research projects**. It provides a standardized structure to keep files organized and ensure efficient collaboration. Use this template as a starting point for your own projects to streamline workflows and maintain clarity.
+# Crime Project 
+## By: Luke Truesdale and Michael Hebbeln
 
 ## Folder Structure
 
@@ -12,7 +11,7 @@ This repository serves as a **template for organizing data analysis and research
 ## Additional Files
 
 - **`.gitignore`**: Specifies files and directories to ignore in version control.
-- **`README.md`**: Documentation for the project template.
+- **`README.md`**: Documentation for the project.
 
 ### To-do List
 ---
@@ -27,8 +26,8 @@ This repository serves as a **template for organizing data analysis and research
 
 | Date       | Initials | Details            |
 |------------|----------|--------------------|
-| 2024-11-17 | lat      | Finish HW          |
-| 2024-11-13 | lat      | In class set up    |
+| 2024-12-16 | lat/mbh  | Finish Project     |
+| 2024-11-13 | lat/mhb  | In class set up    |
 
 
 ### Potential Badges to incorporate
